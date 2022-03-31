@@ -1,0 +1,15 @@
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\bin\Debug\net6.0\ULTIMOTESTE3-3.exe
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\bin\Debug\net6.0\ULTIMOTESTE3-3.deps.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\bin\Debug\net6.0\ULTIMOTESTE3-3.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\bin\Debug\net6.0\ULTIMOTESTE3-3.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\bin\Debug\net6.0\ref\ULTIMOTESTE3-3.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\bin\Debug\net6.0\ULTIMOTESTE3-3.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ULTIMOTESTE3-3.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ULTIMOTESTE3-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ULTIMOTESTE3-3.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ULTIMOTESTE3-3.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ULTIMOTESTE3-3.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ULTIMOTESTE3-3.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ref\ULTIMOTESTE3-3.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ULTIMOTESTE3-3.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULTIMOTESTE3-3\obj\Debug\net6.0\ULTIMOTESTE3-3.genruntimeconfig.cache
